@@ -1,97 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f9cefd5-d3d7-4fb5-af1b-c56efe30379b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Bus Pass Andriod Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/.gradle/6.1.1/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/.gradle/6.1.1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/.idea/modules/BUsCardProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/release/Buscardapp-release.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/release/app-release.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/release/output-metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/androidTest/java/com/buscardproject/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/assets/Buspass.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/AllUserActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/DBhelp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/EditUserActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/HomepageActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/LinearLayoutManagerWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/LoginActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/ScanActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/SpleshActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/UserList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/UserListAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/UserRegActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/drawable-v21/ripple.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/drawable/applogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/drawable/profile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/drawable/ripple.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/drawable/round_button.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/drawable/rounded_shape.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/layout/activity_edituser.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/layout/activity_scan.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/layout/activity_splesh.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/layout/activity_userreg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/layout/activityalluser.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/layout/activityhomepage.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/layout/activitylogin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/layout/useradpter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/test/java/com/buscardproject/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BUsCardProject/local.properties" afterDir="false" />
+    <list default="true" id="2f9cefd5-d3d7-4fb5-af1b-c56efe30379b" name="Default Changelist" comment="The application aims to provide an effective solution of maintaining bus pass information using a QR Code. The app has admin authenticated login and logout option. Passengers are registered by scanning QR Code from their pass and extend the validity every time the pass expires. Admin can view all users’ details and update it by just scanning the QR Code on the pass.  Thus while travelling users just have to get their pass scanned by which conductor can view the pass validity and passengers' details .">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +38,19 @@
       <option name="presentableId" value="Default" />
       <updated>1607956113646</updated>
     </task>
+    <task id="LOCAL-00001" summary="The application aims to provide an effective solution of maintaining bus pass information using a QR Code. The app has admin authenticated login and logout option. Passengers are registered by scanning QR Code from their pass and extend the validity every time the pass expires. Admin can view all users’ details and update it by just scanning the QR Code on the pass.  Thus while travelling users just have to get their pass scanned by which conductor can view the pass validity and passengers' details .">
+      <created>1611253480027</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611253480027</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The application aims to provide an effective solution of maintaining bus pass information using a QR Code. The app has admin authenticated login and logout option. Passengers are registered by scanning QR Code from their pass and extend the validity every time the pass expires. Admin can view all users’ details and update it by just scanning the QR Code on the pass.  Thus while travelling users just have to get their pass scanned by which conductor can view the pass validity and passengers' details ." />
+    <option name="LAST_COMMIT_MESSAGE" value="The application aims to provide an effective solution of maintaining bus pass information using a QR Code. The app has admin authenticated login and logout option. Passengers are registered by scanning QR Code from their pass and extend the validity every time the pass expires. Admin can view all users’ details and update it by just scanning the QR Code on the pass.  Thus while travelling users just have to get their pass scanned by which conductor can view the pass validity and passengers' details ." />
   </component>
   <component name="WindowStateProjectService">
     <state x="92" y="92" width="1736" height="856" key="AVDManager" timestamp="1607958473544">
@@ -141,5 +65,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607956976280" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1611253922750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611253922750" />
+    <state x="623" y="308" key="git4idea.merge.GitPullDialog" timestamp="1611254514459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="308" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611254514459" />
   </component>
 </project>
