@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f9cefd5-d3d7-4fb5-af1b-c56efe30379b" name="Default Changelist" comment="The application aims to provide an effective solution of maintaining bus pass information using a QR Code. The app has admin authenticated login and logout option. Passengers are registered by scanning QR Code from their pass and extend the validity every time the pass expires. Admin can view all users’ details and update it by just scanning the QR Code on the pass.  Thus while travelling users just have to get their pass scanned by which conductor can view the pass validity and passengers' details .">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2f9cefd5-d3d7-4fb5-af1b-c56efe30379b" name="Default Changelist" comment="The application aims to provide an effective solution of maintaining bus pass information using a QR Code. The app has admin authenticated login and logout option. Passengers are registered by scanning QR Code from their pass and extend the validity every time the pass expires. Admin can view all users’ details and update it by just scanning the QR Code on the pass.  Thus while travelling users just have to get their pass scanned by which conductor can view the pass validity and passengers' details ." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +42,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611253480027</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="The application aims to provide an effective solution of maintaining bus pass information using a QR Code. The app has admin authenticated login and logout option. Passengers are registered by scanning QR Code from their pass and extend the validity every time the pass expires. Admin can view all users’ details and update it by just scanning the QR Code on the pass.  Thus while travelling users just have to get their pass scanned by which conductor can view the pass validity and passengers' details .">
+      <created>1611254720254</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611254720254</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -65,10 +69,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607956976280" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1611253922750">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1611254805042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611253922750" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611254805042" />
     <state x="623" y="308" key="git4idea.merge.GitPullDialog" timestamp="1611254514459">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
