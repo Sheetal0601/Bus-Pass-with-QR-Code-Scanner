@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f9cefd5-d3d7-4fb5-af1b-c56efe30379b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Bus Pass Andriod Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/.gradle/6.1.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/.gradle/6.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/.gradle/6.1.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/.idea/modules/BUsCardProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/release/Buscardapp-release.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/release/app-release.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/release/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/androidTest/java/com/buscardproject/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/assets/Buspass.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/AllUserActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/DBhelp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/EditUserActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/HomepageActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/LinearLayoutManagerWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/ScanActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/SpleshActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/UserList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/UserListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/java/com/buscardproject/UserRegActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/drawable-v21/ripple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/drawable/applogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/drawable/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/drawable/ripple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/drawable/round_button.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/drawable/rounded_shape.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/layout/activity_edituser.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/layout/activity_scan.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/layout/activity_splesh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/layout/activity_userreg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/layout/activityalluser.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/layout/activityhomepage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/layout/activitylogin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/layout/useradpter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/app/src/test/java/com/buscardproject/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/BUsCardProject/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUsCardProject/local.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1leSYapSLifqJBBANhU01a9NOks" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f9cefd5-d3d7-4fb5-af1b-c56efe30379b" name="Default Changelist" comment="" />
+      <created>1607956113646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607956113646</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="AVDManager" timestamp="1607958473544">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1607958473544" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1608356813128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608356813128" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1607956976280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607956976280" />
+  </component>
+</project>

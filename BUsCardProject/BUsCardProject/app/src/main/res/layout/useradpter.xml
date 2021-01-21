@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/_4sdp"
+    android:background="@drawable/ripple">
+    <LinearLayout
+        android:id="@+id/linearview"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center|left"
+        android:background="@drawable/ripple"
+        tools:ignore="MissingConstraints">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_2sdp"
+            android:gravity="center|left"
+            tools:ignore="MissingConstraints">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center|left"
+                android:orientation="vertical">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/profile_image"
+                    android:layout_width="@dimen/_70sdp"
+                    android:layout_height="@dimen/_70sdp"
+                    android:src="@drawable/profile"
+                    app:civ_border_width="@dimen/_1sdp"
+                    app:civ_border_color="#999999"/>
+
+                <Button
+                    android:id="@+id/btn_edit"
+                    android:layout_width="wrap_content"
+                    android:layout_marginTop="@dimen/_4sdp"
+                    android:layout_marginBottom="@dimen/_2sdp"
+                    android:layout_height="@dimen/_20sdp"
+                    android:background="@drawable/ripple"
+                    android:padding="@dimen/_3sdp"
+                    android:textSize="@dimen/_10sdp"
+                    android:textAllCaps="false"
+                    android:gravity="center"
+                    android:textColor="@color/color_black1"
+                    android:text="Edit"
+                    android:typeface="serif"
+                    tools:ignore="MissingConstraints"/>
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_marginTop="@dimen/_4sdp"
+                android:layout_marginLeft="@dimen/_3sdp"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:gravity="center|left">
+                <TextView
+                    android:layout_marginTop="@dimen/_4sdp"
+                    android:layout_marginLeft="@dimen/_5sdp"
+                    android:textColor="@color/color_black1"
+                    android:textSize="@dimen/_15sdp"
+                    android:typeface="serif"
+                    android:gravity="center|left"
+                    android:paddingRight="@dimen/_3sdp"
+                    android:paddingLeft="@dimen/_3sdp"
+                    android:id="@+id/txtViewtitle"
+                    android:inputType="textMultiLine|textNoSuggestions"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:id="@+id/txtViewtitle1"
+                    android:layout_marginLeft="@dimen/_5sdp"
+                    android:textColor="@color/color_black1"
+                    android:textSize="@dimen/_13sdp"
+                    android:typeface="serif"
+                    android:gravity="center|left"
+                    android:paddingRight="@dimen/_3sdp"
+                    android:paddingLeft="@dimen/_3sdp"
+                    android:inputType="textMultiLine|textNoSuggestions"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:layout_marginLeft="@dimen/_5sdp"
+                    android:textColor="@color/color_black1"
+                    android:textSize="@dimen/_13sdp"
+                    android:gravity="center|left"
+                    android:typeface="serif"
+                    android:paddingRight="@dimen/_3sdp"
+                    android:paddingLeft="@dimen/_3sdp"
+                    android:id="@+id/txtViewtitle2"
+                    android:inputType="textMultiLine|textNoSuggestions"
+                    android:text="Electronics Electronics"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+                <TextView
+                    android:layout_marginLeft="@dimen/_5sdp"
+                    android:textColor="@color/color_black1"
+                    android:textSize="@dimen/_13sdp"
+                    android:gravity="center|left"
+                    android:typeface="serif"
+                    android:paddingRight="@dimen/_3sdp"
+                    android:paddingLeft="@dimen/_3sdp"
+                    android:id="@+id/txtViewtitle3"
+                    android:inputType="textMultiLine|textNoSuggestions"
+                    android:text="Electronics Electronics"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
