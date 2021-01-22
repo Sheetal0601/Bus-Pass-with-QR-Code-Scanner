@@ -4,3 +4,11 @@ The application aims to provide an effective solution of maintaining bus pass in
 Thus while travelling users just have to get their pass scanned by which conductor can view the pass validity and passengers' details .
 
 ![buss pass app](https://media.giphy.com/media/EYI5KqrzMEnR3xGQLO/giphy.gif)
+
+It has following features:
+1. 🔐 Admin Authenticated Login & Logout
+2. ✔ User Registration by scanning QR Code on pass
+3. 🔎 User Search by scanning QR Code on pass
+4. 🔱 Updating and Deleting passengers' details.
+5. 💯 Secure User Data.
+
